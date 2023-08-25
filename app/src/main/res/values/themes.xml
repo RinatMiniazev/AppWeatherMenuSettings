@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.AppWeatherMenuSettings" parent="Theme.Material3.DayNight">
+        <!-- Customize your light theme here. .NoActionBar -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.AppWeatherMenuSettings" parent="Base.Theme.AppWeatherMenuSettings" />
+</resources>
